@@ -21,6 +21,7 @@ public class window extends JFrame {
 		gameWindow.setVisible(true);
 		gameWindow.setTitle("Game");
 		gameWindow.setResizable(false);
+		gameWindow.getContentPane().setBackground(Color.BLACK);
 		
 
 	}
