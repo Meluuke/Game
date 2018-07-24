@@ -20,7 +20,7 @@ public class window extends JFrame {
 		gameWindow.setSize(1920, 1080);
 		gameWindow.setVisible(true);
 		gameWindow.setTitle("Game");
-		gameWindow.setResizable(true);
+		gameWindow.setResizable(false);
 		
 
 	}
